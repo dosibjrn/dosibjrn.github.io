@@ -13,4 +13,8 @@ Need assistance or have inquiries? Our support team is here to help. Get in touc
 
 ---
 
+[Privacy Policy](/privacy-policy.html)
+
+---
+
 Calora App &copy; 2024
