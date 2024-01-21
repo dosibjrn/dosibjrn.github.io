@@ -4,32 +4,24 @@ Last updated: 2024-01-21
 
 ## Introduction
 
-Calora is committed to protecting your privacy and handling your data transparently. This policy outlines our practices concerning the collection and use of your information through our Calora application and services.
+Calora is an app designed to assist users in tracking their dietary intake. This privacy policy outlines our commitment to privacy and the handling of information within our app.
 
-## Information Collection and Use
+## Data Handling and Third-Party Services
 
-The Calora app allows you to photograph food items and receive estimated nutritional values. We collect data necessary to provide these services, including images and related metadata, while ensuring user anonymity.
-
-## Data Handling
-
-We process data in compliance with GDPR and other data protection laws. We share it with third-party services only for analysis and processing. Users are reminded of their responsibility to ensure GDPR compliance when submitting images.
+Calora utilizes third-party services to enhance the functionality and performance of our app. We ensure that all third-party partnerships comply with [Apple's Standard End-User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) (EULA) and maintain strong data privacy standards.
 
 ## Apple HealthKit Integration
 
-With your consent, Calora may interact with Apple HealthKit, adhering to Apple’s privacy standards. We use HealthKit data strictly for providing our services and not for advertising or unrelated purposes.
+With user consent, Calora integrates with Apple HealthKit to enhance user experience. Calora does not access, read, or store any data from Apple HealthKit within the app. This integration complies with Apple's privacy standards and policies.
 
-## Security Measures
+## Data Privacy
 
-We strive to use commercially acceptable means to protect your Personal Information, but we cannot guarantee its absolute security due to the limitations of data transmission and storage.
+Calora is committed to protecting user privacy and ensuring the security of user data. Our interactions with third-party services are designed to maintain this commitment and respect user privacy.
 
-## Changes to This Policy
+## Changes to This Privacy Policy
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "last updated" date.
+We reserve the right to modify this privacy policy at any time. Changes will be effective immediately upon posting the updated policy on this page, with an updated "last updated" date.
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at caloraapp@gmail.com. We are committed to reviewing and addressing your inquiries as part of our effort to protect your personal information and privacy.
-
-## Your Feedback
-
-We highly value your feedback and suggestions about our services and privacy practices. Your input is instrumental in helping us improve and ensure the best user experience. Please share your thoughts with us.
+If you have any questions about this privacy policy or our privacy practices, please contact us at [caloraapp@gmail.com](mailto:caloraapp@gmail.com). We are committed to ensuring your privacy and handling your information responsibly.
