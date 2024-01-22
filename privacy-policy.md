@@ -8,7 +8,7 @@ Calora is an app designed to assist users in tracking their dietary intake. This
 
 ## Data Handling and Third-Party Services
 
-Calora utilizes OpenAI's GPT-4v technology for AI-based nutritional estimates from meal photos. The methodology relies on advanced machine learning algorithms to provide educated guesses about food content. These estimates are intended for informational purposes only and are not for medical use. For more information about GPT-4v, visit [OpenAI's GPT-4v Contribution Page](https://openai.com/contributions/gpt-4v). We ensure that all third-party partnerships comply with [Apple's Standard End-User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) (EULA) and uphold strong data privacy standards.
+Calora utilizes OpenAI's GPT-4v technology for AI-based nutritional estimates from meal photos. The methodology relies on advanced machine learning algorithms to provide educated guesses about food content. We ensure that all third-party partnerships, including our use of OpenAI's technology, comply with [Apple's Standard End-User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) (EULA) and uphold strong data privacy standards. These estimates are intended for informational purposes only and are not for medical use. For more information about GPT-4v, visit [OpenAI's GPT-4v Contribution Page](https://openai.com/contributions/gpt-4v).
 
 ## Apple HealthKit Integration
 
