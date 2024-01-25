@@ -1,6 +1,6 @@
 {
     "adSettings": {
-        "enabled": true,
+        "enabled": false,
         "initialAdTrigger": 3,
         "subsequentAdFrequency": 2
     },
