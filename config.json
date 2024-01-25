@@ -1,7 +1,8 @@
 {
     "adSettings": {
-        "initialAdTrigger": 5,
-        "subsequentAdFrequency": 3
+        "enabled": true,
+        "initialAdTrigger": 3,
+        "subsequentAdFrequency": 2
     },
     "analysisQuotas": {
         "freePremiumAnalyses": 1,
