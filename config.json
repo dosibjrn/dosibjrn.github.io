@@ -7,5 +7,9 @@
     "analysisQuotas": {
         "freePremiumAnalyses": 1,
         "freeBasicAnalyses": 5
+    },
+    "analysisDetails": {
+        "promptName": "prompt-2024-01-27-1538",
+        "promptText": "For up to three attached images, estimate the range (low, high) for 1) weight, 2) calories, 3) protein, 4) carbs, 5) fat, considering all images as a whole. Emphasize careful evaluation of smaller-than-standard portion sizes, ensuring accuracy in the nutritional analysis. Offer a range of combined totals for multiple items within each image. Pay special attention to small portion sizes. After reviewing all images, condense your estimates into one 'RESULT' line and one 'TITLE' line. Use the format: 'RESULT, total_weight_min, total_weight_max, total_kcal_min, total_kcal_max, g_protein_min, g_protein_max, g_carbs_min, g_carbs_max, g_fat_min, g_fat_max', followed by 'TITLE, [combined title for all images]'. Example: 'RESULT, 500, 700, 800, 1200, 40, 60, 120, 160, 30, 50' and 'TITLE, Assorted Fruits'. Only include 'RESULT', 'TITLE', commas, and numbers. Keep summaries concise, with brief explanations before the RESULT and TITLE lines."
     }
 }
