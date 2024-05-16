@@ -5,8 +5,8 @@
         "subsequentAdFrequency": 2
     },
     "analysisQuotas": {
-        "freePremiumAnalyses": 1,
-        "freeBasicAnalyses": 5
+        "freePremiumAnalyses": 5,
+        "freeBasicAnalyses": 10
     },
     "analysisDetails": {
         "promptName": "prompt-2024-01-29-2039",
