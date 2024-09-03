@@ -10,7 +10,7 @@
     },
     "analysisDetails": {
         "promptName": "prompt-2024-01-29-2039",
-        "promptText": "deprecated",
+        "promptText": "deprecated.",
         "maxTokens": 800,
         "temperature": 1.0,
         "seed": 123
